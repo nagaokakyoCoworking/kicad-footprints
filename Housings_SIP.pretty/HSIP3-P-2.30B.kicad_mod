@@ -1,4 +1,5 @@
-(module HSIP3-P-2.30B (layer F.Cu) (tedit 5D00540E)
+(module HSIP3-P-2.30B (layer F.Cu) (tedit 5DF2F020)
+  (descr "Toshiba SIP-3 Pitch 2.3mm")
   (fp_text reference REF** (at -5.08 -6.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
