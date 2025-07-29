@@ -8,6 +8,8 @@
  MH-Z19C センサーモジュール
  超高効率 DC-DCコンバーター M78ARXXX-0.5
  光変調型フォトIC S7136
+ 東芝セミコンダクタ HSIP7-P-2.54A (SIP7)
+ サンケンSLAシリーズ SLA7024M ZIP018
  
 ## Switch_Cosland.pretty
 
