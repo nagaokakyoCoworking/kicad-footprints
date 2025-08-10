@@ -10,6 +10,7 @@
  光変調型フォトIC S7136
  東芝セミコンダクタ HSIP7-P-2.54A (SIP7)
  サンケンSLAシリーズ SLA7024M ZIP018
+ 放熱版(ヒートシンク) 16PB017
  
 ## Switch_Cosland.pretty
 
